@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Avondale\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.7.2\ccf86a454b5ce7029c243da22f432f2edca0a34e\gdx-1.7.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccf86a454b5ce7029c243da22f432f2edca0a34e">
+        <dex dex="D:\AndroidStudioProjects\Deuce\android\build\intermediates\pre-dexed\release\gdx-1.7.2-435ddf2cdf9112f42bb85f4525416147925d3133.jar" />
+    </item>
+    <item
+        jar="C:\Users\Avondale\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.7.2\275914cb71c76e4d3ce1e4037cf8a9cce8f7c842\gdx-box2d-1.7.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="275914cb71c76e4d3ce1e4037cf8a9cce8f7c842">
+        <dex dex="D:\AndroidStudioProjects\Deuce\android\build\intermediates\pre-dexed\release\gdx-box2d-1.7.2-99c32815f53836e05fc147eb44b0e8ad03bf5315.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Deuce\libs\tween-engine-api-sources.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b471c161e1bd73eb4a762a35d75b40eb5b4de3a1">
+        <dex dex="D:\AndroidStudioProjects\Deuce\android\build\intermediates\pre-dexed\release\tween-engine-api-sources-917be11fc2d0281448bf9af73c21f61f28660aad.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Deuce\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9f123449dbab2798b5110eae892bb163b6ca0ca">
+        <dex dex="D:\AndroidStudioProjects\Deuce\android\build\intermediates\pre-dexed\release\core-1.0-4dc0bb74ce67b1a9fe9cb9a1214c4b8839f94fc8.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Deuce\libs\tween-engine-api.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8be8beb70b7ccae059d523e56670f6e44fb1821f">
+        <dex dex="D:\AndroidStudioProjects\Deuce\android\build\intermediates\pre-dexed\release\tween-engine-api-426003b8cdfc4f34643fa71e6324cc44a4ff07e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Avondale\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.7.2\5211971f79423cda216422e62c1ec8684603c3b2\gdx-backend-android-1.7.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5211971f79423cda216422e62c1ec8684603c3b2">
+        <dex dex="D:\AndroidStudioProjects\Deuce\android\build\intermediates\pre-dexed\release\gdx-backend-android-1.7.2-ca30397f1b63ca2502128475199a482b4f8c4577.jar" />
+    </item>
+
+</items>
