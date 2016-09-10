@@ -1,0 +1,28 @@
+d:assets:0:application/unknown
+i:background.png:2271:image/png
+i:background2.png:2410:image/png
+i:Black Ball.png:1117:image/png
+i:Black Square.png:171:image/png
+i:cycle.jpg:2028:image/jpeg
+i:deuce.png:15301:image/png
+i:gameover.png:6670:image/png
+a:gameover.wav:216736:audio/x-wav
+i:ready.png:3129:image/png
+i:retry.png:2570:image/png
+i:score.png:3568:image/png
+a:score.wav:33086:audio/x-wav
+t:shadow.fnt:11609:application/unknown
+i:shadow.png:5440:image/png
+i:tap to start.png:2022:image/png
+t:text.fnt:11607:application/unknown
+i:text.png:8879:image/png
+i:White Ball.png:2228:image/png
+i:White Square.png:270:image/png
+t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:770:application/unknown
+t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:2886:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:5163:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/default.vertex.glsl:8948:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/depth.fragment.glsl:870:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/depth.vertex.glsl:2923:application/unknown
+t:com/badlogic/gdx/utils/arial-15.fnt:21743:application/unknown
+i:com/badlogic/gdx/utils/arial-15.png:21814:image/png
